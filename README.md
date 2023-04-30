@@ -99,7 +99,7 @@ THEN I find a concise, descriptive title
 
 
 
-NOTE
+
  
 
   # This project has been deployed to GitHub, here is the link:
