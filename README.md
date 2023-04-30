@@ -104,8 +104,8 @@ NOTE
 
   # This project has been deployed to GitHub, here is the link:
 
-  *
-  
+  * https://github.com/wento777/Horiseon-web 
+   
   
   The URL of the deployed application.
   
@@ -123,4 +123,4 @@ Even though accessibility is a broad topic that can include complex requirements
 
 ## Author
  * ANDREI FLOREA - Initial work - Git Hub Profile
- * Challenge 1 |HTML CSS Git Challenge: Code Refactor
+ * Challenge 1 |  HTML CSS Git Challenge: Code Refactor
