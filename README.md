@@ -97,11 +97,20 @@ THEN I find a concise, descriptive title
 
   none
 
+
+
+NOTE
  
 
   # This project has been deployed to GitHub, here is the link:
 
-  * 
+  *
+  
+  
+  The URL of the deployed application.
+  
+  
+  * https://wento777.github.io/Horiseon-web/
  
 
 
